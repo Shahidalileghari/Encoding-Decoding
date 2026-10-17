@@ -1,2 +1,17 @@
-# Encoding_Decoding_With_Java
-Here I have used my skills to encode and decode code with help of java using Base64 class.
+# Encoding and Decoding in Java
+
+A Java project demonstrating encoding and decoding techniques to convert data between different formats and retrieve the original information.
+
+## Features
+- Text encoding and decoding
+- Base64 conversion
+- String manipulation
+- Practical Java examples
+
+## Technologies
+- Java
+
+## Author
+**Shahid Ali Leghari**
+
+GitHub: [@Shahidalileghari](https://github.com/Shahidalileghari)
